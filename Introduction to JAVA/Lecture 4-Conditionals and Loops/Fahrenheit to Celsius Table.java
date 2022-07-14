@@ -55,7 +55,7 @@ public class Solution {
         int c = 0;
        while(s<=e)
         {
-        System.out.print(s + "\t");
+        System.out.print(s + " ");
         c = (s - 32)*5/9;
 		System.out.println(c);
            s=s+w;
